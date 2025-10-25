@@ -2,11 +2,11 @@
 
 <h3 align="left">Automation Specialist | Data Engineer | Market Analyst</h3>
 
-My core focus is designing **fault-tolerant, scalable automation systems** for data acquisition and quantitative analysis. As a student in Digital Business, I specialize in transforming raw market data into actionable insights, driving efficiency, and maintaining high standards of data integrity across digital projects.
+I specialize in designing **fault-tolerant, scalable automation systems** for data acquisition and quantitative analysis. As a student in Digital Business, I focus on transforming raw market data into actionable insights, driving efficiency, and maintaining high standards of data integrity across digital projects.
 
 ---
 
-## 🛠️ Core Stack & Expertise
+## ⚙️ Core Stack & Expertise
 
 <div align="center">
   <p><b>Data Engineering & Backend</b></p>
@@ -25,15 +25,23 @@ My core focus is designing **fault-tolerant, scalable automation systems** for d
   <a href="#"><img style="margin: 5px;" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
 </div>
 
+<div align="center">
+  <p><b>Data Ingestion & Frontend</b></p>
+  <a href="#"><img style="margin: 5px;" src="https://img.shields.io/badge/Binance%20API-FCD535?style=for-the-badge&logo=binance&logoColor=black" alt="Binance API"></a>
+  <a href="#"><img style="margin: 5px;" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"></a>
+  <a href="#"><img style="margin: 5px;" src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte"></a>
+  <a href="#"><img style="margin: 5px;" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></a>
+</div>
+
 ---
 
-## 🔥 Featured Projects
+## 🔥 Featured Project Showcase
 
-| Proyek | Deskripsi Singkat | Status & Bahasa |
-| :--- | :--- | :--- |
-| **[Python Financial Data Toolkit]** | Scripts Python untuk *data fetching* OHLCV skala besar, termasuk penanganan *rate limiting* yang *robust*. | Public (Python) |
-| **[Daily Contribution Engine]** | Workflow otomatisasi privat harian yang menjamin konsistensi grafik kontribusi dengan pola *commit* acak. | Private (Actions/Bash) |
-| **[High-Frequency Market Analysis]** | Project personal untuk *backtesting* strategi *quant* (SMC/Liquidity) pada data frekuensi tinggi. | Private (Quant) |
+| Project Name | Primary Focus | Status & Languages | Link |
+| :--- | :--- | :--- | :--- |
+| **Python Financial Data Toolkit** | Data Ingestion, Quant Prep | Public (Python) | [Lihat di GitHub] (https://github.com/learnonlye/python-financial-data-toolkit) |
+| **Daily Contribution Engine** | Automation, CI/CD, Profile Consistency | Private (Actions/Bash) | [Lihat Status Run] (https://github.com/learnonlye/daily-activity/actions/workflows/daily-commit.yml) |
+| **High-Frequency Market Analysis** | Custom SMC/Liquidity Logic, Backtesting | Private (Python/Quant) | *Ask me about this project.* |
 
 ---
 
@@ -52,14 +60,15 @@ My core focus is designing **fault-tolerant, scalable automation systems** for d
 ## 💬 Let's Connect & Collaborate
 
 <p align="center">
+  <a href="https://github.com/learnonlye" target="_blank">
+    <img style="margin: 5px;" src="https://img.shields.io/badge/Follow%20on%20GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
+  </a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
     <img style="margin: 5px;" src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
-    <img style="margin: 5px;" src="https://img.shields.io/badge/Say%20Hi%20via%20Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
+  <a href="https://twitter.com/YOUR_TWITTER_HANDLE" target="_blank">
+    <img style="margin: 5px;" src="https://img.shields.io/badge/Chat%20on%20Twitter%20(X)-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge">
   </a>
 </p>
 
-<p align="center">
-  <i>"My commitment is to build, not just observe."</i>
-</p>
+***"My commitment is to build, not just observe."***
