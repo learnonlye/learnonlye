@@ -1,8 +1,19 @@
 # Hi there, I'm @learnonlye! 👋
 
-<h3 align="left">Automation Specialist | Data Engineer | Market Analyst</h3>
+<div align="center">
+  <img 
+    src="https://avatars.githubusercontent.com/u/221186738?v=4" 
+    alt="learnonlye Profile Picture" 
+    width="150" 
+    style="border-radius: 50%; margin-top: 20px; margin-bottom: 10px; border: 4px solid #06B6D4;" 
+  />
+</div>
 
+<h3 align="center" style="font-size:24px;">Automation Specialist | Data Engineer | Market Analyst</h3>
+
+<p align="center">
 I specialize in designing **fault-tolerant, scalable automation systems** for data acquisition and quantitative analysis. As a student in Digital Business, I focus on transforming raw market data into actionable insights, driving efficiency, and maintaining high standards of data integrity across digital projects.
+</p>
 
 ---
 
@@ -12,8 +23,8 @@ I specialize in designing **fault-tolerant, scalable automation systems** for da
   <p><b>Data Engineering & Python Ecosystem</b></p>
   <a href="#"><img style="margin: 5px;" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
   <a href="#"><img style="margin: 5px;" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"></a>
-  <a href="#"><img style="margin: 5px;" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"></a>
   <a href="#"><img style="margin: 5px;" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL/SQL"></a>
+  <a href="#"><img style="margin: 5px;" src="https://img.shields.io/badge/CCXT-E65100?style=for-the-badge&logo=transferwise&logoColor=white" alt="CCXT"></a>
   <a href="#"><img style="margin: 5px;" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"></a>
 </div>
 
