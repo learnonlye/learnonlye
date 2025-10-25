@@ -1,63 +1,55 @@
-# Hi there, I'm @learnonlye! 👋
+# Hi there, I'm @learnonlye!
 
-### 🔗 Digital Business Student | AI Builder | Quant Enthusiast
+<h3 align="left">Digital Business Student | Applied AI | Quant Enthusiast</h3>
 
 I'm a Digital Business student ('24) focused on bridging market strategy with cutting-edge technology. My passion lies in creating automated, data-driven solutions in finance and digital systems.
 
 ---
 
-## 🚀 Key Focus Areas
+## 💻 Tech & Focus Stack
 
-| Icon | Focus Area | Description |
-| :---: | :--- | :--- |
-| 🧠 | **Applied AI/ML** | Building predictive models and intelligent automation tools to solve business and financial problems (e.g., market analysis, business forecasting). |
-| ⛓️ | **Web3 & Decentralization** | Exploring the practical application of blockchain technology, specifically decentralized applications (dApps) and on-chain data systems. |
-| 📈 | **Quantitative Strategy** | Developing and backtesting algorithmic trading strategies (SMC, Liquidity Concepts, FVG) using high-frequency data and Python. |
-| ⚙️ | **Automation & CI** | Utilizing GitHub Actions (CI) and Python scripting to automate data pipelines, testing, and daily operational tasks (including maintaining consistent contribution graphs!). |
-
----
-
-## 🛠️ My Toolkit
-
-| Category | Tools & Frameworks |
-| :--- | :--- |
-| **Data & Trading** | Python, CCXT, Pandas, Pandas-TA, Finnhub API |
-| **Web3 / Crypto** | Motoko, Svelte, ICP (Internet Computer), Solidity (Basic) |
-| **Automation** | GitHub Actions, Bash, Docker |
-| **Design / Frontend** | Figma, Next.js, TypeScript, Tailwind CSS |
+| Category | Tools & Frameworks | Description | Badge Visuals |
+| :--- | :--- | :--- | :--- |
+| **Data Science & Quant** | Python, CCXT, Pandas, NumPy | Tools untuk analisis data finansial, *backtesting*, dan *data ingestion* skala besar. | ![](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white) ![](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
+| **Automation & CI/CD** | GitHub Actions, Bash, Cron | Membangun *data pipeline* terstruktur dan otomatisasi tugas harian (CI/CD) di GitHub. | ![](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
+| **Web3 & Platforms** | Motoko, Svelte, Firebase | Eksplorasi DApps di ICP (Internet Computer) dan pengembangan *backend* ringan. | ![](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white) |
+| **Design & Frontend** | Figma, Next.js, Tailwind CSS | Pengembangan *interface* dan *prototyping* yang *clean* dan modern. | ![](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
 
 ---
 
-## 🔥 Featured Project Snippets
+## 🔥 Featured Project Showcase
 
-Here are some concepts derived from my work:
+Berikut adalah proyek-proyek yang menunjukkan aplikasi praktis dari keahlian di atas:
 
-### 1. High-Frequency Data Toolkit
-> *Status: In Development*
-> A public repository containing robust Python scripts for fetching and cleaning scaled historical OHLCV data from crypto exchanges, designed for reliable backtesting.
-> **[View Project: python-financial-data-toolkit](https://github.com/learnonlye/python-financial-data-toolkit)**
+### 1. Python Financial Data Toolkit
+* **Repo:** `python-financial-data-toolkit`
+* **Deskripsi:** Kumpulan *scripts* Python untuk *data ingestion* OHLCV skala besar, termasuk penanganan *rate limiting* dan *error* yang *robust*.
+* **Status:** Public | **[Lihat di GitHub] (https://github.com/learnonlye/python-financial-data-toolkit)**
 
 ### 2. Daily Contribution Engine
-> *Status: Automated*
-> A private GitHub Actions workflow that runs daily to maintain consistent activity using realistic, randomized commit patterns.
-> **[View the Automation Status] (https://github.com/learnonlye/daily-activity/actions/workflows/daily-commit.yml)**
+* **Repo:** `learnonlye-daily-activity`
+* **Deskripsi:** Workflow otomatisasi privat yang berjalan harian untuk menjaga grafik kontribusi konsisten dengan pola *commit* yang acak dan realistis.
+* **Status:** Private (Runs daily via Actions) | **[Lihat Status Run Terbaru] (https://github.com/learnonlye/daily-activity/actions/workflows/daily-commit.yml)**
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Performance
 
-> Note: My contributions are maintained across several repositories, including a private one used for daily automation, ensuring consistent activity.
-
-[![learnonlye's GitHub Stats](https://github-readme-stats.vercel.app/api?username=learnonlye&show_icons=true&theme=default&hide_border=true&include_all_commits=true)](https://github.com/learnonlye/learnonlye)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=learnonlye&show_icons=true&theme=default&hide_border=true&include_all_commits=true&custom_title=Statistik%20Kontribusi%20(Fortotest)" alt="learnonlye GitHub Stats" />
+</p>
 
 ---
 
-## 💬 Let's Connect
+## 💬 Let's Connect & Collaborate
 
-| Platform | Handle |
-| :---: | :--- |
-| **LinkedIn** | [Your LinkedIn Profile] |
-| **Email** | [Your Professional Email] |
-| **Website/Blog** | [edwardsamuel.wordpress.com] |
+| Platform | Ikon | Tautan/Handle |
+| :---: | :---: | :--- |
+| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME) | [Hubungkan di LinkedIn] |
+| **Email** | [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com) | [Kirim Email] |
+| **Website** | [![Website](https://img.shields.io/badge/Blog-1E40FF?style=flat-square&logo=wordpress&logoColor=white)](https://edwardsamuel.wordpress.com) | [Kunjungi Blog] |
+| **GitHub** | [![Followers](https://img.shields.io/github/followers/learnonlye?style=social)](https://github.com/learnonlye?tab=followers) | Follow me for automation projects! |
 
-*"The best way to predict the future is to create it."*
+<br>
+
+***"The best way to predict the future is to create it."***
